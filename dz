@@ -2,6 +2,7 @@ VMD
 https://www.rcsb.org/structure/1LYZ
 
 В окне VMD Main, выбераем Graphics > Representations.
+
 Далле меняет поле Drawing Method на 
 a. Wireframe
   Lines
@@ -17,4 +18,3 @@ e. Molecular surface
   Выполнить раскраску структуры
 Coloring Method - name это цветовая модель CPK. (a) (5 скринов)
 Secondary structure это раскраскаразличными цветами по доменам (частям) белка (b) (2 скрина начинающихся с b.)
-  
