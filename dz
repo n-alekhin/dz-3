@@ -1,0 +1,20 @@
+VMD
+https://www.rcsb.org/structure/1LYZ
+
+В окне VMD Main, выбераем Graphics > Representations.
+Далле меняет поле Drawing Method на 
+a. Wireframe
+  Lines
+b. Backbone
+  Trace
+c. Spacefill
+  VDW
+d. Ribbons
+  Ribbons
+e. Molecular surface
+  Surf
+
+  Выполнить раскраску структуры
+Coloring Method - name это цветовая модель CPK. (a)
+Secondary structure это раскраскаразличными цветами по доменам (частям) белка (b)
+  
